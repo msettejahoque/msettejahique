@@ -80,16 +80,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=msettejahoque&theme=tokyonight" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=msettejahoque&theme=onestar&row=1&column=6" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/msettejahoque/msettejahoque/output/github-contribution-grid-snake.svg" />
-</p>
